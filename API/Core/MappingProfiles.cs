@@ -1,7 +1,7 @@
 using AutoMapper;
 using Domain;
 
-namespace API.Core
+namespace API.Core 
 {
     public class MappingProfiles : Profile
     {

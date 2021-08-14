@@ -3,6 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using MediatR;
 using Persistence;
+using System.Linq;
 
 namespace Application.Activities
 {
